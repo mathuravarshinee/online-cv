@@ -8,12 +8,12 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Mathura Varshinee Swaminathan
+  tagline: Cyber Security Professional
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
+  email: mathura.varshineee@gmail.com
   phone: 012 345 6789
   timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
@@ -64,18 +64,16 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Results-driven Cybersecurity and Risk Management Professional with 4+ years of experience leading end-to-end 
+    security initiatives for financial institutions. Skilled in security compliance and risk management, with hands-on 
+    expertise in aligning processes with standards like NIST and ISO 27001. Proven ability to collaborate across 
+    Security, IT, and Governance teams to drive compliance, optimize security posture, and deliver measurable business outcomes.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Masters of Science in Cybersecurity and Information Assurance
+    university: Western Governors University
+    time: 2025 -
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
