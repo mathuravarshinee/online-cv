@@ -160,7 +160,7 @@ certifications:
     credentialurl: www.coursera.org/account/accomplishments/specialization/TPOVABDT5D8P
     details: |   
      Applied project management principles using JIRA and ServiceNow during Google Project Management Specialization coursework
-- name: NIST Cybersecurity Framework by Coursera
+  - name: NIST Cybersecurity Framework by Coursera
     start: 2024
     #end: 2028
     organization: Coursera
@@ -176,7 +176,7 @@ certifications:
 #projects:
   #title: Projects
   #intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    #You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   #assignments:
   #- title: Velocity
     #link: "#hook"
@@ -201,7 +201,7 @@ certifications:
 #oss:
   #title: OSS Contributions
   #intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+   # You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   #contributions:
   #- title: Tempo
     #link: "#"
@@ -234,33 +234,33 @@ certifications:
     #details: authors: Donald E. Knuth
     #conference: Addison-Wesley, 1968
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+  #- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+    #link: "#"
+   # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+   # conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+ # - title: A syntax directed compiler for Algol 60
+   # link: "#"
+   # #authors: Edgar T. Irons
+    #conference: "Comm. ACM 4 (1961), 51–55"
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
+#recommendations:
+  #title: Recommendations
+ # list:
+ # - person: Yareli Perez
+  #  email: perezyareli@example.com
+  #  phone: 012 345 6789
+  #  role: General Director at example.com
+   # recommendation: |
+    #  Alan Doe is a super employee!
+  #- person: Lara Henderson
+  #  email: larah@example.com
+  #  phone: 012 345 6789
+   # role: General Director at example.com
+   # recommendation: |
+   #   I would like to work with Alan Doe again!
 
-      He is a great employee!
+    #  He is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
