@@ -143,8 +143,6 @@ certifications:
     credentialname: Comptia Cysa+
     details: |
       CySA+ candidate with hands-on exposure to threat detection and vulnerability assessment tools, including Nmap, wireshark,Qualys, and Nikto.
-
-  
   - name: PECB ISO 27001:2022 Foundation
     start: 2025
     #end:
@@ -154,7 +152,7 @@ certifications:
     credentialname: PECB
     details: |
       PECB ISO/IEC 27001:2022 Foundation – Demonstrated understanding of information security management systems (ISMS) and ISO 27001 controls.
-    - name: Google Project Management Specialization by Coursera
+  - name: Google Project Management Specialization by Coursera
     start: 2024
     #end: 2028
     organization:Google
@@ -163,6 +161,8 @@ certifications:
     credentialname: Google Project Management 
     details: |   
      Applied project management principles using JIRA and ServiceNow during Google Project Management Specialization coursework
+
+     
 projects:
   title: Projects
   intro: >
