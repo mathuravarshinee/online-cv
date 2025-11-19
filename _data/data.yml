@@ -155,7 +155,7 @@ certifications:
   - name: Google Project Management Specialization by Coursera
     start: 2024
     #end: 2028
-    organization:Google
+    organization: Google
     credentialid: TPOVABDT5D8P
     #credentialurl: www.google.com
     credentialname: Google Project Management 
