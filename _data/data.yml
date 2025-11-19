@@ -102,22 +102,22 @@ experiences:
     company: Wipro,India
     details: |
      Project : Lloyds Banking Group
-•Led security optimization and gap assessments across applications and systems, ensuring alignment with ISO
+Led security optimization and gap assessments across applications and systems, ensuring alignment with ISO
 27001, NIST CSF, and regulatory standards.
-•Designed and validated security controls across different environments to strengthen compliance and control
+Designed and validated security controls across different environments to strengthen compliance and control
 effectiveness.
-•Managed vulnerability assessments, penetration testing, and remediation, enhancing detection accuracy and
+Managed vulnerability assessments, penetration testing, and remediation, enhancing detection accuracy and
 reducing false positives.
-•Collaborated with Security, Engineering, and Risk teams to implement risk-based action plans and maintain
+Collaborated with Security, Engineering, and Risk teams to implement risk-based action plans and maintain
 control and accountability.
-•Developed and maintained security documentation and runbooks, standardizing first-line risk management
+Developed and maintained security documentation and runbooks, standardizing first-line risk management
 processes.
-•Delivered cost savings of ~£2,000 through optimized testing and remediation workflows.
-•Mentored a 15-member team, driving collaboration, compliance, and continuous improvement.
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
+Delivered cost savings of ~£2,000 through optimized testing and remediation workflows.
+Mentored a 15-member team, driving collaboration, compliance, and continuous improvement.
+  #role: Senior Software Engineer
+    #time: 2014 - 2015
+    #company: Google, London
+    #details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
       Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -125,10 +125,10 @@ processes.
       pellentesque eu, pretium quis, sem.
         - Bullet point
         - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
+  #- role: UI Developer
+   # time: 2012 - 2014
+    #company: Amazon, London
+    #details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
       Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -140,10 +140,10 @@ processes.
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
+  - name: Comptia Cysa+
+    start: 2025
+    end: 2028
+    organization: Comptia
     credentialid: 111-222
     credentialurl: www.google.com
     credentialname: Google
