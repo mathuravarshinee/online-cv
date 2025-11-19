@@ -139,7 +139,7 @@ certifications:
     end: 2028
     organization: Comptia
     credentialid: 8e99427975cd4c3e8313317cd7c99b73
-    #credentialurl: www.google.com
+    credentialurl:Comptia Cysa+ 
     credentialname: Comptia Cysa+
     details: |
       CySA+ candidate with hands-on exposure to threat detection and vulnerability assessment tools, including Nmap, wireshark,Qualys, and Nikto.
@@ -157,7 +157,7 @@ certifications:
     #end: 2028
     organization: Google
     credentialid: TPOVABDT5D8P
-    #credentialurl: www.google.com
+    credentialurl: https://www.coursera.org/account/accomplishments/specialization/TPOVABDT5D8P
     credentialname: Google Project Management 
     details: |   
      Applied project management principles using JIRA and ServiceNow during Google Project Management Specialization coursework
