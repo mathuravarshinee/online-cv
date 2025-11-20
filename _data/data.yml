@@ -48,17 +48,10 @@ sidebar:
 
   interests:
     title: Interests
-   info:
-   - item: Vendor Risk Management
-    #  link:
-
-
+    info:
+    - item: Vendor Risk Management
     - item: Governance ,Risk and Compliance
-   #   link:
-
-
     - item: Threat Detection and Incident Response
-    #  link:
 
 
 career-profile:
