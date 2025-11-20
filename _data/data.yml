@@ -58,9 +58,9 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Results-driven Cybersecurity and Risk Management Professional with 4+ years of experience leading end-to-end 
+    Results-driven <strong>Cybersecurity and Risk Management Professional</strong> with <strong>4+ years</strong> of experience leading end-to-end 
     security initiatives for financial institutions. Skilled in security compliance and risk management, with hands-on 
-    expertise in aligning processes with standards like NIST and ISO 27001. Proven ability to collaborate across 
+    expertise in aligning processes with standards like <strong>NIST</strong> and <strong>ISO 27001</strong>. Proven ability to collaborate across 
     Security, IT, and Governance teams to drive compliance, optimize security posture, and deliver measurable business outcomes.
     
 education:
@@ -94,16 +94,16 @@ experiences:
   info:
   - role: Senior Security Consultant 
     time: 2021 - 2024
-    company: WIPRO, INDIA
+    company: <strong>WIPRO, INDIA</strong>
     details: |
-     Project : Lloyds Banking Group
-      - Led security optimization and gap assessments across applications and systems, ensuring alignment with ISO 27001, NIST CSF, and regulatory standards.
+     Project : <strong>Lloyds Banking Group</strong>
+      - Led security optimization and gap assessments across applications and systems, ensuring alignment with <strong>ISO 27001, NIST CSF,</strong> and <strong>regulatory standards</strong>.
       - Designed and validated security controls across different environments to strengthen compliance and control effectiveness.
       - Managed vulnerability assessments, penetration testing, and remediation, enhancing detection accuracy and reducing false positives.
       - Collaborated with Security, Engineering, and Risk teams to implement risk-based action plans and maintain control and accountability.
       - Developed and maintained security documentation and runbooks, standardizing first-line risk management processes.
-      - Delivered cost savings of ~£2,000 through optimized testing and remediation workflows.
-      - Mentored a 15-member team, driving collaboration, compliance, and continuous improvement.
+      - Delivered <strong>cost savings</strong> of <strong>~£2,000</strong> through optimized testing and remediation workflows.
+      - Mentored a <strong>15-member team</strong>, driving collaboration, compliance, and continuous improvement.
   #role: Senior Software Engineer
     #time: 2014 - 2015
     #company: Google, London
@@ -138,7 +138,7 @@ certifications:
     credentialurl: cp.certmetrics.com/comptia/en/public/verify/credential/8e99427975cd4c3e8313317cd7c99b73 
     credentialname: CompTIA CySA+
     details: |
-      CySA+ candidate with hands-on exposure to threat detection and vulnerability assessment tools, including <strong> Nmap, Wireshark, Qualys, and Nikto.</strong>
+      CySA+ candidate with hands-on exposure to threat detection and vulnerability assessment tools, including <strong> Nmap, Wireshark, Qualys,</strong> and <strong>Nikto</strong>.
 
       
   - name: PECB ISO 27001:2022 Foundation
@@ -149,7 +149,7 @@ certifications:
     credentialurl: pecb.com/en/certificate-verification
     credentialname: PECB
     details: |
-      PECB ISO/IEC 27001:2022 Foundation – Demonstrated understanding of information security management systems (ISMS) and ISO 27001 controls.
+      PECB ISO/IEC 27001:2022 Foundation – Demonstrated understanding of <strong>Information Security Management Systems (ISMS)</strong> and <strong>ISO 27001 controls</strong>.
 
       
   - name: Google Project Management Specialization by Coursera
@@ -160,7 +160,7 @@ certifications:
     credentialname: Google Project Management 
     credentialurl: www.coursera.org/account/accomplishments/specialization/TPOVABDT5D8P
     details: |   
-     Applied project management principles using JIRA and ServiceNow during Google Project Management Specialization coursework
+     Applied project management principles using <strong>JIRA</strong> and <strong>ServiceNow </strong>during Google Project Management Specialization coursework
 
      
   - name: NIST Cybersecurity Framework by Coursera
@@ -171,7 +171,7 @@ certifications:
     #credentialurl: www.coursera.org/account/accomplishments/specialization/TPOVABDT5D8P
     #credentialname: Google Project Management 
     details: |   
-      Demonstrated understanding of NIST Framework and applied it in academic case study
+      Demonstrated understanding of <strong>NIST Framework</strong> and applied it in academic case study
   
 
 
