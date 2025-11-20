@@ -180,15 +180,18 @@ projects:
   assignments:
   - title: Incident Response Template ( Academic couresework )
     #link: "#hook"
-    tagline: Developed and completed an incident response template for a simulated security scenario
+    tagline: |
+      Developed and completed an incident response template for a simulated security scenario
 
   - title: Incident Response Simulation – Virtual Lab Exercise ( Academic coursework )
     #link: "#hook"
-    tagline: Investigated security incidents in a virtual lab environment, analyzed logs, diagnosed attacks, and documented remediation steps in a structured incident response report.
+    tagline: |
+      Investigated security incidents in a virtual lab environment, analyzed logs, diagnosed attacks, and documented remediation steps in a structured incident response report.
 
   - title: Cybersecurity Risk Assessment & Compliance Strategy Project
     #link: "#"
-    tagline: Developed a comprehensive security strategy and compliance plan for a simulated system, performing risk assessments and applying FISMA-aligned controls to enhance cybersecurity posture 
+    tagline: |
+      Developed a comprehensive security strategy and compliance plan for a simulated system, performing risk assessments and applying FISMA-aligned controls to enhance cybersecurity posture 
 
   #- title: Atom
     #link: "#"
