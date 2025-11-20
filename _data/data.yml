@@ -193,8 +193,8 @@ projects:
     #link: "#hook"
     tagline: Investigated security incidents in a virtual lab environment, analyzed logs, diagnosed attacks, and documented remediation steps in a structured incident response report.
 
- -  title: Cybersecurity Risk Assessment & Compliance Strategy Project
-   # link: "#"
+  - title: Cybersecurity Risk Assessment & Compliance Strategy Project
+    #link: "#"
     tagline: Developed a comprehensive security strategy and compliance plan for a simulated system, performing risk assessments and applying FISMA-aligned controls to enhance cybersecurity posture 
 
   #- title: Atom
