@@ -184,7 +184,7 @@ projects:
   title: Projects
   #intro: >
     #You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  #assignments:
+  assignments:
   - title: Incident Response Template ( Academic couresework )
     #link: "#hook"
     tagline: Developed and completed an incident response template for a simulated security scenario
@@ -193,7 +193,7 @@ projects:
     #link: "#hook"
     tagline: Investigated security incidents in a virtual lab environment, analyzed logs, diagnosed attacks, and documented remediation steps in a structured incident response report.
 
- - title: Cybersecurity Risk Assessment & Compliance Strategy Project
+ -  title: Cybersecurity Risk Assessment & Compliance Strategy Project
    # link: "#"
     tagline: Developed a comprehensive security strategy and compliance plan for a simulated system, performing risk assessments and applying FISMA-aligned controls to enhance cybersecurity posture 
 
@@ -289,7 +289,7 @@ skills:
     level: 95%
 
   - name: Cross Functional Collaboration
-    level: 90%
+    level: 95%
 
 #footer: >
   #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
