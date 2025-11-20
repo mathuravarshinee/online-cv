@@ -46,18 +46,18 @@ sidebar:
    # - idiom: Spanish
     #  level: Professional
 
- # interests:
-  #  title: Interests
-  #  info:
- #   - item: Climbing
+  interests:
+    title: Interests
+   info:
+   - item: Vendor Risk Management
     #  link:
 
 
-   # - item: Snowboarding
+    - item: Governance ,Risk and Compliance
    #   link:
 
 
-   # - item: Cooking
+    - item: Threat Detection and Incident Response
     #  link:
 
 
@@ -180,22 +180,22 @@ certifications:
 
 
      
-#projects:
-  #title: Projects
+projects:
+  title: Projects
   #intro: >
     #You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   #assignments:
-  #- title: Velocity
+  - title: Incident Response Template ( Academic couresework )
     #link: "#hook"
-    #tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    tagline: Developed and completed an incident response template for a simulated security scenario
 
-  #- title: DevStudio
-    #link: "#"
-    #tagline: "A responsive website template designed to help web developers/designers market their services."
+  - title: Incident Response Simulation – Virtual Lab Exercise ( Academic coursework )
+    #link: "#hook"
+    tagline: Investigated security incidents in a virtual lab environment, analyzed logs, diagnosed attacks, and documented remediation steps in a structured incident response report.
 
- # - title: Tempo
+ - title: Cybersecurity Risk Assessment & Compliance Strategy Project
    # link: "#"
-    #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: Developed a comprehensive security strategy and compliance plan for a simulated system, performing risk assessments and applying FISMA-aligned controls to enhance cybersecurity posture 
 
   #- title: Atom
     #link: "#"
