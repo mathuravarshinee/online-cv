@@ -97,7 +97,7 @@ experiences:
     company: <strong>WIPRO, INDIA</strong>
     details: |
      Project : <strong>Lloyds Banking Group</strong>
-      - Led security optimization and gap assessments across applications and systems, ensuring alignment with <strong>ISO 27001, NIST CSF,</strong> and <strong>regulatory standards</strong>.
+      - Led security optimization and gap assessments across applications and systems, ensuring alignment with <strong>ISO 27001, GDPR, NIST CSF,</strong> and <strong>regulatory standards</strong>.
       - Designed and validated security controls across different environments to strengthen compliance and control effectiveness.
       - Managed <strong>vulnerability assessments, penetration testing,</strong> and <strong>remediation</strong>, enhancing detection accuracy and reducing false positives.
       - Collaborated with Security, Engineering, and Risk teams to implement risk-based action plans and maintain control and accountability.
@@ -130,7 +130,7 @@ experiences:
 certifications:
   title: Certifications
   list:
-  - name: CompTIA CySA+
+  - name: <strong>CompTIA CySA+</strong>
     start: 2025
     #end: 2028
     organization: CompTIA
@@ -141,7 +141,7 @@ certifications:
       CySA+ candidate with hands-on exposure to threat detection and vulnerability assessment tools, including <strong> Nmap, Wireshark, Qualys,</strong> and <strong>Nikto</strong>.
 
       
-  - name: PECB ISO 27001:2022 Foundation
+  - name: <strong>PECB ISO 27001:2022 Foundation</strong>
     start: 2025
     #end:
     organization: PECB
@@ -152,7 +152,7 @@ certifications:
       PECB ISO/IEC 27001:2022 Foundation – Demonstrated understanding of <strong>Information Security Management Systems (ISMS)</strong> and <strong>ISO 27001 controls</strong>.
 
       
-  - name: Google Project Management Specialization by Coursera
+  - name: <strong>Google Project Management Specialization by Coursera</strong>
     start: 2024
     #end: 2028
     organization: Google
@@ -163,7 +163,7 @@ certifications:
      Applied project management principles using <strong>JIRA</strong> and <strong>ServiceNow </strong>during Google Project Management Specialization coursework
 
      
-  - name: NIST Cybersecurity Framework by Coursera
+  - name: <strong>NIST Cybersecurity Framework by Coursera</strong>
     start: 2024
     #end: 2028
     organization: Coursera
