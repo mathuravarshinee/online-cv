@@ -130,13 +130,13 @@ experiences:
 certifications:
   title: Certifications
   list:
-  - name: Comptia Cysa+
+  - name: Comptia CySA+
     start: 2025
     #end: 2028
     organization: Comptia
     credentialid: 8e99427975cd4c3e8313317cd7c99b73
     credentialurl: cp.certmetrics.com/comptia/en/public/verify/credential/8e99427975cd4c3e8313317cd7c99b73 
-    credentialname: Comptia Cysa+
+    credentialname: Comptia CySA+
     details: |
       CySA+ candidate with hands-on exposure to threat detection and vulnerability assessment tools, including Nmap, Wireshark, Qualys, and Nikto.
 
