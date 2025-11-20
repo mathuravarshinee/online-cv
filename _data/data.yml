@@ -94,7 +94,7 @@ experiences:
   info:
   - role: Senior Security Consultant 
     time: 2021 - 2024
-    company: Wipro,India
+    company: WIPRO, INDIA
     details: |
      Project : Lloyds Banking Group
       - Led security optimization and gap assessments across applications and systems, ensuring alignment with ISO 27001, NIST CSF, and regulatory standards.
@@ -130,15 +130,15 @@ experiences:
 certifications:
   title: Certifications
   list:
-  - name: Comptia CySA+
+  - name: CompTIA CySA+
     start: 2025
     #end: 2028
-    organization: Comptia
+    organization: CompTIA
     credentialid: 8e99427975cd4c3e8313317cd7c99b73
     credentialurl: cp.certmetrics.com/comptia/en/public/verify/credential/8e99427975cd4c3e8313317cd7c99b73 
-    credentialname: Comptia CySA+
+    credentialname: CompTIA CySA+
     details: |
-      CySA+ candidate with hands-on exposure to threat detection and vulnerability assessment tools, including Nmap, Wireshark, Qualys, and Nikto.
+      CySA+ candidate with hands-on exposure to threat detection and vulnerability assessment tools, including <strong> Nmap, Wireshark, Qualys, and Nikto.</strong>
 
       
   - name: PECB ISO 27001:2022 Foundation
