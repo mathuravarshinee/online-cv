@@ -130,6 +130,19 @@ experiences:
 certifications:
   title: Certifications
   list:
+
+
+  - name: <strong>CompTIA PenTest+ (PT0-003)</strong>
+    start: 2025
+    #end: 2028
+    organization: CompTIA
+    credentialid: b33ab935299f4450a6babb58dae10adc
+    credentialurl: cp.certmetrics.com/comptia/en/public/verify/credential/b33ab935299f4450a6babb58dae10adc
+    credentialname: CompTIA PenTest+ (PT0-003)
+    details: |
+      PenTest+ candidate with hands-on experience in planning and executing penetration tests, including reconnaissance, vulnerability scanning, exploitation, and reporting using tools such as <strong> Nmap, Metasploit, Burp Suite, Nessus, and Nikto.</strong>
+
+      
   - name: <strong>CompTIA CySA+</strong>
     start: 2025
     #end: 2028
@@ -181,6 +194,12 @@ projects:
   #intro: >
     #You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
+
+  - title: Secure Framework for AI Challenges in Financial Services (Thesis Project)
+    #link: "#hook"
+    tagline: >
+      Developed a security framework for AI Challenges in the financial sector to address common security vulnerabilities due to increasing AI adoption.
+      
   - title: Incident Response Template ( Academic couresework )
     #link: "#hook"
     tagline: >
