@@ -140,7 +140,7 @@ certifications:
     credentialurl: cp.certmetrics.com/comptia/en/public/verify/credential/b33ab935299f4450a6babb58dae10adc
     credentialname: CompTIA PenTest+ (PT0-003)
     details: |
-      PenTest+ candidate with hands-on experience in planning and executing penetration tests, including reconnaissance, vulnerability scanning, exploitation, and reporting using tools such as <strong> Nmap, Metasploit, Burp Suite, Nessus, and Nikto.</strong>
+      PenTest+ candidate with hands-on experience in planning and executing penetration tests, including reconnaissance, vulnerability scanning, exploitation, and reporting using tools such as <strong> Nmap, Metasploit, Burp Suite, Nessus, </strong> and <strong> Nikto.</strong>
 
       
   - name: <strong>CompTIA CySA+</strong>
