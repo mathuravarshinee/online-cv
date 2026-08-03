@@ -92,6 +92,17 @@ education:
 experiences:
   title: Experiences
   info:
+    - role: <strong>Application Security Analyst – Information Security</strong>
+    time: April 2026 – Present
+    company: <strong>SMBC · Contract | Charlotte, NC</strong>
+    details: |
+      - Facilitate application security risk assessment interviews and cloud security assessments with <strong>50+ stakeholders across 15+ business units</strong>, supporting a portfolio of <strong>900 applications</strong> with a <strong>98% completion rate</strong>.
+      - Complete <strong>10+ assessments weekly</strong>, translating technical and business inputs into standardized risk and control documentation aligned with <strong>NIST, ISO 27001,</strong> and internal banking standards.
+      - Review application assessment evidence and <strong>SOC reports</strong> to validate control implementation against security policies and regulatory requirements.
+      - Prepare and process <strong>10+ risk acceptance requests weekly</strong>, documenting control gaps, business justification, and remediation considerations.
+      - Triage <strong>high-risk findings</strong> and coordinate escalation to appropriate security teams while maintaining audit-ready assessment and communication records.
+      - Use <strong>AI-assisted review workflows</strong> to reduce average documentation review time from <strong>three days to approximately 1.5–2 days</strong>, improving assessment throughput and consistency.
+      
   - role: <strong>Senior Security Consultant </strong>
     time: 2021 - 2024
     company: <strong>WIPRO, INDIA</strong>
@@ -200,6 +211,11 @@ projects:
   #intro: >
     #You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
+
+  - title: <strong>Cybersecurity Risk &amp; Compliance Dashboard</strong>
+    #link: "#hook"
+    tagline: >
+      Built an <strong>executive-level Power BI dashboard</strong> using inherent and residual risk scoring. Mapped <strong>eight security risks</strong> to <strong>NIST CSF</strong> and <strong>PCI DSS</strong> requirements, enabling stakeholders to review risk severity, control coverage, and remediation priorities.
 
   - title: Secure Framework for AI Challenges in Financial Services (Thesis Project)
     #link: "#hook"
