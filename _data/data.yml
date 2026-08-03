@@ -212,10 +212,10 @@ projects:
     #You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
 
-  - title: <strong>Cybersecurity Risk &amp; Compliance Dashboard</strong>
+  - title: Cybersecurity Risk &amp; Compliance Dashboard
     #link: "#hook"
     tagline: >
-      Built an <strong>executive-level Power BI dashboard</strong> using inherent and residual risk scoring. Mapped <strong>eight security risks</strong> to <strong>NIST CSF</strong> and <strong>PCI DSS</strong> requirements, enabling stakeholders to review risk severity, control coverage, and remediation priorities.
+      Built an executive-level Power BI dashboard using inherent and residual risk scoring. Mapped <strong>eight security risks to NIST CSF and PCI DSS requirements, enabling stakeholders to review risk severity, control coverage, and remediation priorities.
 
   - title: Secure Framework for AI Challenges in Financial Services (Thesis Project)
     #link: "#hook"
