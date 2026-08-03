@@ -217,6 +217,11 @@ projects:
     tagline: >
       Developed a security framework for AI Challenges in the financial sector to address common security vulnerabilities due to increasing AI adoption.
       
+  - title: Cybersecurity Risk and Compliance Dashboard
+    #link: "#hook"
+    tagline: >
+      Built an executive-level Power BI dashboard using inherent and residual risk scoring. Mapped eight security risks to NIST CSF and PCI DSS requirements, enabling stakeholders to review risk severity, control coverage, and remediation priorities.
+      
   - title: Incident Response Template ( Academic couresework )
     #link: "#hook"
     tagline: >
