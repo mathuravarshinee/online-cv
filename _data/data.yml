@@ -181,6 +181,16 @@ certifications:
     credentialname: CompTIA PenTest+ (PT0-003)
     details: |
       PenTest+ with hands-on experience in planning and executing penetration tests, including reconnaissance, vulnerability scanning, exploitation, and reporting using tools such as <strong> Nmap, Metasploit, Burp Suite, Nessus, </strong> and <strong> Nikto.</strong>
+      
+  - name: <strong>AI Fluency: Framework & Foundations</strong>
+    start: 2026
+    #end: 2028
+    organization: Anthropic
+    credentialid: nrfcrbiyre7c
+    credentialurl: verify.skilljar.com/c/nrfcrbiyre7c
+    credentialname: AI Fluency: Framework & Foundations
+    details: |
+      Mastered safe, ethical, and effective human-AI collaboration using <strong>Anthropic’s 4D framework (Delegation, Description, Discernment, Diligence).</strong>
     
   - name: <strong>Google Project Management Specialization by Coursera</strong>
     start: 2024
@@ -216,6 +226,11 @@ projects:
     #link: "#hook"
     tagline: >
       Developed a security framework for AI Challenges in the financial sector to address common security vulnerabilities due to increasing AI adoption.
+      
+  - title: SOC 2 Control Mapper (GenAI)
+    link: "https://mathuravarshinee-soc2-control-mapper-app-lwd2o8.streamlit.app"
+    tagline: >
+      Built an AI-powered SOC 2 control mapping prototype (Python, Streamlit, Claude API) that classifies stakeholder responses against Trust Service Criteria controls and flags compliance status, applying prompt engineering techniques from Anthropic's AI Frameworks and Foundations course.
       
   - title: Cybersecurity Risk and Compliance Dashboard
     #link: "#hook"
