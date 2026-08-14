@@ -182,7 +182,7 @@ certifications:
     details: |
       PenTest+ with hands-on experience in planning and executing penetration tests, including reconnaissance, vulnerability scanning, exploitation, and reporting using tools such as <strong> Nmap, Metasploit, Burp Suite, Nessus, </strong> and <strong> Nikto.</strong>
       
-  - name: <strong>AI Fluency: Framework & Foundations</strong>
+  - name: <strong>AI Fluency: Framework &amp; Foundations</strong>
     start: 2026
     #end: 2028
     organization: Anthropic
