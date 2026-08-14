@@ -182,13 +182,13 @@ certifications:
     details: |
       PenTest+ with hands-on experience in planning and executing penetration tests, including reconnaissance, vulnerability scanning, exploitation, and reporting using tools such as <strong> Nmap, Metasploit, Burp Suite, Nessus, </strong> and <strong> Nikto.</strong>
       
-  - name: <strong>AI Fluency: Framework &amp; Foundations</strong>
+  - name: <strong>AI Fluency - Framework &amp; Foundations</strong>
     start: 2026
     #end: 2028
     organization: Anthropic
     credentialid: nrfcrbiyre7c
     credentialurl: verify.skilljar.com/c/nrfcrbiyre7c
-    credentialname: AI Fluency: Framework & Foundations
+    credentialname: AI Fluency - Framework &amp; Foundations
     details: |
       Mastered safe, ethical, and effective human-AI collaboration using <strong>Anthropic’s 4D framework (Delegation, Description, Discernment, Diligence).</strong>
     
